@@ -1,3 +1,7 @@
+.container {
+  background-image: url(./Imagenes/fondo.jpg);
+  background-size: 100%;
+}
 .App {
   text-align: center;
 }
